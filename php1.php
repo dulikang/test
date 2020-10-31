@@ -1,3 +1,4 @@
-<?php
+public class HelloWorld{
 
-phpifo();
+}
+
